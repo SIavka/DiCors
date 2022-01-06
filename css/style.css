@@ -23,7 +23,7 @@ html, body{
 	ms-text-size-adjust: 100%;
 	moz-text-size-adjust: 100%;
 	webkit_text-size-adjust: 100%;
-	background: url('../img/background.png'), no-repeat;
+	background: url('./img/background.png'), no-repeat;
 }
 
 input, button, textarea{font-family: inherit;}
